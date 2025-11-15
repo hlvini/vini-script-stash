@@ -1,4 +1,4 @@
-# bash-backup-script
-[PTBR] Script bash para realizar o backup da pasta home do usuário para um diretório de destino 
+# vini-script-stash
+[PTBR] Minha coleção de scripts para uso pessoal 
 
-[ENG] Script made using bash that backups a user home data folder to a specified directory
+[ENG] My personal script stash
