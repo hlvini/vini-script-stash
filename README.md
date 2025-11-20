@@ -7,7 +7,9 @@ This repository contains a series of scripts that seek to automate repetitive, t
 
 ### OSINT
 **port_scanner.py**: Script to check for open ports
+
 **subdomain_scanner.py**: Automatically tries to find listed subdomains for a given website
+
 **username_scanner_search.py**: Searchs for a given username over multiple websites
 
 ### API Health Checker
