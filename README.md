@@ -1,16 +1,17 @@
 # Vini's Script Stash
 
-This repository contains a series of scripts that seek to automate repetitive, time consuming or otherwise simple tasks. That one may find the scripts here useful.
+A series of scripts that seek to automate repetitive, time consuming or otherwise simple tasks. That one may find the scripts here useful.
 
-**backup_packages.sh**: Automatically zips all manually installed packages, for *nix systems
-**backup_script.sh**: Automatically backups the user home folder, requires configuration
+## Contents
 
-### OSINT
-**port_scanner.py**: Script to check for open ports
+**backup_packages.sh**
+Creates a text file containing all user installed (Native, Flatpak and Snap) packages, this allows users to quickly reinstall programs onto a new OS installation
 
-**subdomain_scanner.py**: Automatically tries to find listed subdomains for a given website
+**backup_script.sh**
+Creates a backup of an user home folder. must manually alter *user* in the **SRC** variable to the user profile name
 
-**username_scanner_search.py**: Searchs for a given username over multiple websites
+**API Status Checker**
 
-### API Health Checker
-CHecks the avaiability of an API
+Allows for quick checking an API availability 
+
+
